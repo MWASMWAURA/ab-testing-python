@@ -19,3 +19,6 @@ Our data set consists of 548 observations which includes:
 2. Matplotlib
 3. Seaborn
 4. Scipy
+
+## Acknowledgments
+This project is based on [AB-TESTING-PYTHON](https://github.com/irsyadas/ab-testing-python) by [IRSYADAS](https://github.com/irsyadas).
